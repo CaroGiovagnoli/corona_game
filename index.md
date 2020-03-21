@@ -1,5 +1,6 @@
 # El juego del corona virus
 
+>Idea original de Florencia Giovagnoli.    
 >Juego de mesa.    
 >Tiempo estimado de juego: 30 minutos.    
 >Cantidad de jugadores: los que estén encerrados con vos.    
