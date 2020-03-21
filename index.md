@@ -1,4 +1,4 @@
-# El juego del corona virus
+# El juego del coronavirus
 
 >Idea original de Florencia Giovagnoli.    
 >Juego de mesa.    
