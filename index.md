@@ -36,4 +36,6 @@ Para llegar a la meta hay que sacar con los dados el número exacto de casillero
 - `-` **Casillero 36:** te cansaste de leer que `hornear un pastel` era una buena actividad para pasar la cuarentena y te escapaste de tu casa para comprar los ingredientes y te agarró la policía, perdés un turno.    
 - `-` **Casillero 39:** tenés coronavirus, más de 65 años, la suerte es tu única aliada, volvés al comienzo a no ser que saques más de 8 con el dado (estás frito).    
 
-Podés escribir tus propias reglas (como siempre)
+Podés escribir tus propias reglas (como siempre).    
+    
+©2020 Florencia Giovagnoli. All rights reserved.
