@@ -1,17 +1,19 @@
-#El juego del corona virus
+# El juego del corona virus
+
 >Juego de mesa.    
 >Tiempo estimado de juego: 30 minutos.    
 >Cantidad de jugadores: los que estén encerrados con vos.    
-###Elementos para la construcción del juego
+
+### Elementos para la construcción del juego
 - **Para la base** una hoja, cartulina, cartón, tabla, tamaño A3 o simliar.    
 - **Para dibujar los números** un marcador, lapiz, elemento que sirva para escribir.    
 - **Para las fichas** cositas diferentes que hagan las veces de fichas.    
 - **Un dado**
 
-###Construcción del tablero:
+### Construcción del tablero:
 En el elemento base dibujar los 40 casilleros y numerarlos.
 
-###Empieza el juego:
+### Empieza el juego:
 Cada jugador elige su ávatar.    
 Comienza el juego quien pueda hacer más sentadillas.    
 Tirar los dados y comenzar.    
@@ -20,7 +22,7 @@ La casilla 21 es el hospital.
 Para llegar a la meta hay que sacar con los dados el número exacto de casilleros que te falta o seguís rebotando hasta lograr llegar.
 
 
-####Seguir las instrucciones de lo que ocurre en cada casillero:
+#### Seguir las instrucciones de lo que ocurre en cada casillero:
 
 - `+` **Casillero 3:** arranca la cuarentena, armás un horario para sobrevivir al caos del home office y escuela en casa, ves la alacena llena de víveres y papel higiénico, estás motivado, tirás otra ves el dado.    
 - `-` **Casillero 10:** tenés fiebre y sos persona de riesgo, 14 días de aislamiento, perdés un turno.    
@@ -33,4 +35,4 @@ Para llegar a la meta hay que sacar con los dados el número exacto de casillero
 - `-` **Casillero 36:** te cansaste de leer que `hornear un pastel` era una buena actividad para pasar la cuarentena y te escapaste de tu casa para comprar los ingredientes y te agarró la policía, perdés un turno.    
 - `-` **Casillero 39:** tenés coronavirus, más de 65 años, la suerte es tu única aliada, volvés al comienzo a no ser que saques más de 8 con el dado (estás frito).    
 
->Podés escribir tus propias reglas (como siempre)
+Podés escribir tus propias reglas (como siempre)
