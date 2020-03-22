@@ -19,7 +19,6 @@ Cada jugador elige su ávatar.
 Comienza el juego quien pueda hacer más sentadillas.    
 Tirar los dados y comenzar.    
 La casilla 18 es el supermercado.    
-La casilla 21 es el hospital.    
 Para llegar a la meta hay que sacar con los dados el número exacto de casilleros que te falta o seguís rebotando hasta lograr llegar.
 
 
