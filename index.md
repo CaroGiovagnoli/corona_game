@@ -38,3 +38,4 @@ Para llegar a la meta hay que sacar con los dados el número exacto de casillero
 Podés escribir tus propias reglas (como siempre).    
     
 ©2020 Florencia Giovagnoli. All rights reserved.
+![Podés escribir tus propias reglas](https://github.com/CaroGiovagnoli/corona_game/blob/master/img/botton.jpg?raw=true)
