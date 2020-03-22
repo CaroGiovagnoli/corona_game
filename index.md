@@ -1,5 +1,7 @@
-# El juego del corona virus
+![El juego del coronavirus](https://github.com/CaroGiovagnoli/corona_game/blob/master/img/banner.jpg?raw=true)
+# El juego del coronavirus
 
+>Idea original de Florencia Giovagnoli.    
 >Juego de mesa.    
 >Tiempo estimado de juego: 30 minutos.    
 >Cantidad de jugadores: los que estén encerrados con vos.    
@@ -18,9 +20,7 @@ Cada jugador elige su ávatar.
 Comienza el juego quien pueda hacer más sentadillas.    
 Tirar los dados y comenzar.    
 La casilla 18 es el supermercado.    
-La casilla 21 es el hospital.    
-Para llegar a la meta hay que sacar con los dados el número exacto de casilleros que te falta o seguís rebotando hasta lograr llegar.
-
+Para llegar a la meta hay que sacar con los dados el número exacto de casilleros que te falta o seguís rebotando hasta lograr llegar.    
 
 #### Seguir las instrucciones de lo que ocurre en cada casillero:
 
@@ -32,7 +32,9 @@ Para llegar a la meta hay que sacar con los dados el número exacto de casillero
 - `+` **Casillero 23:** te borrás de los chats de padres de la escuela y amigues, avanzás 6 casilleros..    
 - `-` **Casillero 29:** seguistes las indicaciones de un amigue y te tomaste el jugo de limón caliente, te quemaste la garganta, perdés dos turnos..    
 - `-` **Casillero 33:** te quedaste sin papel higiénico, tenés que ir al super. (el supermercado es el casillero 18).    
-- `-` **Casillero 36:** te cansaste de leer que `hornear un pastel` era una buena actividad para pasar la cuarentena y te escapaste de tu casa para comprar los ingredientes y te agarró la policía, perdés un turno.    
+- `-` **Casillero 36:** te cansaste de leer que _hornear un pastel_ era una buena actividad para pasar la cuarentena y te escapaste de tu casa para comprar los ingredientes y te agarró la policía, perdés un turno.    
 - `-` **Casillero 39:** tenés coronavirus, más de 65 años, la suerte es tu única aliada, volvés al comienzo a no ser que saques más de 8 con el dado (estás frito).    
 
-Podés escribir tus propias reglas (como siempre)
+Podés escribir tus propias reglas (como siempre).    
+    
+©2020 Florencia Giovagnoli. All rights reserved.
