@@ -19,8 +19,8 @@ Cada jugador elige su ávatar.
 Comienza el juego quien pueda hacer más sentadillas.    
 Tirar los dados y comenzar.    
 La casilla 18 es el supermercado.    
-Para llegar a la meta hay que sacar con los dados el número exacto de casilleros que te falta o seguís rebotando hasta lograr llegar.
-
+Para llegar a la meta hay que sacar con los dados el número exacto de casilleros que te falta o seguís rebotando hasta lograr llegar.    
+![18](https://github.com/CaroGiovagnoli/corona_game/blob/master/18.jpg?raw=true width="50")    
 
 #### Seguir las instrucciones de lo que ocurre en cada casillero:
 
