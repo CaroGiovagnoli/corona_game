@@ -20,11 +20,11 @@ Cada jugador elige su ávatar.
 Comienza el juego quien pueda hacer más sentadillas.    
 Tirar los dados y comenzar.    
 La casilla 18 es el supermercado.    
-Para llegar a la meta hay que sacar con los dados el número exacto de casilleros que te falta o seguís rebotando hasta lograr llegar.    
+Para llegar a la meta (casillero 40) hay que sacar con los dados el número exacto de casilleros que te falta o seguís rebotando hasta lograr llegar.    
 
 #### Seguir las instrucciones de lo que ocurre en cada casillero:
 
-- `+` **Casillero 3:** arranca la cuarentena, armás un horario para sobrevivir al caos del home office y escuela en casa, ves la alacena llena de víveres y papel higiénico, estás motivado, tirás otra ves el dado.    
+- `+` **Casillero 3:** arranca la cuarentena, armás un horario para sobrevivir al caos del home office y escuela en casa, ves la alacena llena de víveres y papel higiénico, estás motivado, tirá otra ves el dado.    
 - `-` **Casillero 10:** tenés fiebre y sos persona de riesgo, 14 días de aislamiento, perdés un turno.    
 - `+` **Casillero 12:** te quedaste sin papel higiénico, tenés que ir al super. (el supermercado es el casillero 18).    
 - `-` **Casillero 14:** estás en un barco con un infectado, perdés dos turnos.    
@@ -40,3 +40,7 @@ Podés escribir tus propias reglas (como siempre).
 ©2020 Florencia Giovagnoli. All rights reserved.    
     
 ![Podés escribir tus propias reglas](https://github.com/CaroGiovagnoli/corona_game/blob/master/img/botton.jpg?raw=true)
+
+
+
+#### English & Deutsch comming soon
