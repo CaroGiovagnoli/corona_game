@@ -29,7 +29,7 @@ Para llegar a la meta (casillero 40) hay que sacar con los dados el número exac
 - `+` **Casillero 12:** te quedaste sin papel higiénico, tenés que ir al super. (el supermercado es el casillero 18).    
 - `-` **Casillero 14:** estás en un barco con un infectado, perdés dos turnos.    
 - `+` **Casillero 15:** la cuarentena te está volviendo loco, aguantá 30 segundos en plancha y avanzás 4 casilleros.    
-- `+` **Casillero 23:** te borrás de los chats de padres de la escuela y amigues, avanzás 6 casilleros..    
+- `+` **Casillero 23:** te borrás de los chats de padres de la escuela y amigues, avanzás 5 casilleros..    
 - `-` **Casillero 29:** seguistes las indicaciones de un amigue y te tomaste el jugo de limón caliente, te quemaste la garganta, perdés dos turnos..    
 - `-` **Casillero 33:** te quedaste sin papel higiénico, tenés que ir al super. (el supermercado es el casillero 18).    
 - `-` **Casillero 36:** te cansaste de leer que _hornear un pastel_ era una buena actividad para pasar la cuarentena, te escapaste de tu casa para comprar los ingredientes y te agarró la policía, perdés un turno.    
