@@ -43,4 +43,4 @@ Podés escribir tus propias reglas (como siempre).
 
 
 
-#### English & Deutsch comming soon
+#### English & Deutsch coming soon
