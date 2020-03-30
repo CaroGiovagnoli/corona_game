@@ -1,3 +1,4 @@
+![El juego del coronavirus](https://github.com/CaroGiovagnoli/corona_game/blob/master/img/banner.jpg?raw=true)
 # Jeu du coronavirus
 > Conçu par Florencia Giovagnoli
 > Jeu de société
