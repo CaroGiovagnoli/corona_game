@@ -3,22 +3,22 @@
 
 > Based upon an idea from Florencia Giovagnoli. Estimated playing time: 30 minutos. Number of Players: your lockdown partners.    
 
-###Game building elements:
+### Game building elements:
 - __Board__ an A3 size paper sheet, cardboard, plywood, or similar.    
 - __To draw numbers__ colur pencils, magic markers, any writing element.    
 - __Playing pieces__ Customized corks, buttons, anything you can use as.    
 - __A dice__.    
 
-###Making the board:
+### Making the board:
 Draw a grid with 40 slots, and number them from 1 to 40.    
 
-###Gameplay:
+### Gameplay:
 Every player chooses an avatar. 
 The player who can do more “squat” sittings begins. 
  Roll the dice and go. Slot 18 is the supermarket / Grocery store. 
 To get to the goal (slot 40) you have to draw the dice with the exact number of slots to it. Otherwise you bounce untill you make it.
 
-###What happens in between:
+### What happens in between:
 - `+` __Slot 3:__ Lockdown begins, you make a schedule in order to survive homeoffice and homeschoolling chaos. Your cupboard is full of supplies and toilet paper, you´re highly motivated, roll the dice again.
 - `-` __Slot 10:__ You got fever, 14 days isolation, you lose one turn.
 - `+` __Slot 12:__ Out of toilet paper, go to the supermarket (Slot18).
