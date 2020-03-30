@@ -1,7 +1,7 @@
 ![El juego del coronavirus](https://github.com/CaroGiovagnoli/corona_game/blob/master/img/banner.jpg?raw=true)
 # El juego del coronavirus
-### [The Coronavirus Board game](https://github.com/CaroGiovagnoli/corona_game/blob/master/eng_verions_Coronavirus.md)
-### [Jeu du coronavirus]
+### [The Coronavirus Board game](https://carogiovagnoli.github.io/corona_game//blob/master/eng_verions_Coronavirus.md)
+### [Jeu du coronavirus](https://github.com/CaroGiovagnoli/corona_game/blob/master/fr-Jeu_du_coronavirus.md)
 
 
 >Idea original de Florencia Giovagnoli.    
