@@ -1,7 +1,9 @@
 ![El juego del coronavirus](https://github.com/CaroGiovagnoli/corona_game/blob/master/img/banner.jpg?raw=true)
 # The Coronavirus Board game
 
-> Based upon an idea from Florencia Giovagnoli. Estimated playing time: 30 minutos. Number of Players: your lockdown partners.    
+> Based upon an idea from Florencia Giovagnoli. 
+> Estimated playing time: 30 minutos. 
+> Number of Players: your lockdown partners.    
 
 ### Game building elements:
 - __Board__ an A3 size paper sheet, cardboard, plywood, or similar.    
@@ -30,5 +32,6 @@ To get to the goal (slot 40) you have to draw the dice with the exact number of 
 - `-` __Slot 36:__ Tired of reading how is baking such a great activity during lockdown, you let yourself out to the store to get ingredients, and got caught by the police. Lose 1 turn. 
 - `-` __Slot 39:__ You are infected and over 65 y.o. Luck is your only ally. Roll the dice, if it doesn't come out 8, you start over again from slot 1.
 
-As usual, you can add your own.
+__As usual, you can add your own.__
+
 ©2020 Florencia Giovagnoli. All rights reserved.
