@@ -1,7 +1,8 @@
 ![El juego del coronavirus](https://github.com/CaroGiovagnoli/corona_game/blob/master/img/banner.jpg?raw=true)
 # El juego del coronavirus
-### [The Coronavirus Board game](https://carogiovagnoli.github.io/corona_game//blob/master/eng_verions_Coronavirus.md)
-### [Jeu du coronavirus](https://github.com/CaroGiovagnoli/corona_game/blob/master/fr-Jeu_du_coronavirus.md)
+
+English version ↓
+Version française ↓↓
 
 
 >Idea original de Florencia Giovagnoli.    
@@ -44,6 +45,86 @@ Podés escribir tus propias reglas (como siempre).
     
 ![Podés escribir tus propias reglas](https://github.com/CaroGiovagnoli/corona_game/blob/master/img/botton.jpg?raw=true)
 
+---
+#### English version
 
+![El juego del coronavirus](https://github.com/CaroGiovagnoli/corona_game/blob/master/img/banner.jpg?raw=true)
+# The Coronavirus Board game
 
-#### English & Deutsch coming soon
+> Based upon an idea from Florencia Giovagnoli. 
+> Estimated playing time: 30 minutos. 
+> Number of Players: your lockdown partners.    
+
+### Game building elements:
+- __Board__ an A3 size paper sheet, cardboard, plywood, or similar.    
+- __To draw numbers__ colur pencils, magic markers, any writing element.    
+- __Playing pieces__ Customized corks, buttons, anything you can use as.    
+- __A dice__.    
+
+### Making the board:
+Draw a grid with 40 slots, and number them from 1 to 40.    
+
+### Gameplay:
+Every player chooses an avatar. 
+The player who can do more “squat” sittings begins. 
+ Roll the dice and go. Slot 18 is the supermarket / Grocery store. 
+To get to the goal (slot 40) you have to draw the dice with the exact number of slots to it. Otherwise you bounce untill you make it.
+
+### What happens in between:
+- `+` __Slot 3:__ Lockdown begins, you make a schedule in order to survive homeoffice and homeschoolling chaos. Your cupboard is full of supplies and toilet paper, you´re highly motivated, roll the dice again.
+- `-` __Slot 10:__ You got fever, 14 days isolation, you lose one turn.
+- `+` __Slot 12:__ Out of toilet paper, go to the supermarket (Slot18).
+- `-` __Slot 14:__ You went on a cruise with an infected passenger, lose two turns.
+- `+` __Slot 15:__ Quarantine is driving you mad. Hold on plank position for 30 seconds, and move 4 slots.
+- `+` __Slot 23:__ You ban yourself from school parents and friend's chats in order to avoid paranoid, move 5 slots.
+- `-` __Slot 29:__ You read fake news a friend sent, tried to immunize your throat with hot lemon juice and got 2nd degree burns. Lose two turns.
+- `-` __Slot 33:__ Out of toilet paper, go to the supermarket (Slot18).
+- `-` __Slot 36:__ Tired of reading how is baking such a great activity during lockdown, you let yourself out to the store to get ingredients, and got caught by the police. Lose 1 turn. 
+- `-` __Slot 39:__ You are infected and over 65 y.o. Luck is your only ally. Roll the dice, if it doesn't come out 8, you start over again from slot 1.
+
+__As usual, you can add your own.__
+
+©2020 Florencia Giovagnoli. All rights reserved.
+
+---
+####Version française
+![El juego del coronavirus](https://github.com/CaroGiovagnoli/corona_game/blob/master/img/banner.jpg?raw=true)
+# Jeu du coronavirus
+> Conçu par Florencia Giovagnoli
+> Jeu de société
+> Temps de jeu estimé : 30 minutes
+> Quantité de joueurs : le nombre de personnes confinées avec toi 
+
+### Eléments pour la construction du jeu
+- __Pour le plateau__ une feuille, du carton, une planche, format A3 ou qui lui ressemble.
+- __Pour dessiner les nombres__ un feutre ou un crayon , ou un autre élément qui serve à écrire.
+- __Pour les jetons__ des petits objets différents qui puissent servir de jetons.
+- __Un dé__ 
+
+### Construction du plateau :
+Sur l’élément servant de plateau, dessiner les 40 cases et les numéroter. 
+
+### Règles du jeu :
+Chaque joueur choisit son avatar.    
+ Qui commence ? Celui ou celle qui arrive à faire le plus grand nombre de squats.     
+Tirer les dés et commencer.    
+La case 18 : c’est le supermarché.    
+Pour arriver au but (la case 40), il faut tirer le numéro exact de cases restantes.     
+
+### Suivre les instructions de ce qui arrive dans les cases suivantes :
+- `+` __Case 3 :__ début du confinement, tu te fais un emploi du temps pour survivre au chaos du télétravail et de l’école à la maison. Tu vois le placard plein de vivres et de papier toilette. Tu es motivé(e) : tu tires le dé à nouveau.    
+- `-` __Case 10 :__ tu as de la fièvre et tu es une personne à risque. 14 jours de confinement, tu perds un tour    
+- `+` __Case 12 :__ tu n’as plus de papier toilette, tu dois aller au supermarché (le supermarché est la case 18)    
+- `-` __Case 14 :__ tu es sur un bateau avec une personne infectée à bord : tu perds deux tours.    
+- `+` __Case 15 :__ le confinement te rend fou. Tu attends 30 secondes en faisant des gainages et tu avances 4 cases.    
+- `+` __Case 23 :__ tu effaces sur ton portable les messages des parents de l’école et des amis. Tu avances 5 cases.    
+- `-` __Case 29 :__ tu suis les conseils d’un ami :  tu as bu un jus de citron chaud, tu t’es brûlé la gorge. Tu perds deux tours.    
+- `-` __Case 33 :__ tu n’as plus de papier toilette, tu dois aller au supermarché (le supermarché est la case 18)    
+- `-` __Case 36 :__ tu t’es fatigué(e)  de lire,  tu as pensé que préparer un gâteau était une bonne idée, tu t’es échappé(e)  de chez toi pour acheter les ingrédients et la police t’as surpris, tu perds un tour.    
+- `-` __Case 39 :__ tu as le coronavirus, tu as plus de 65 ans, la chance est son seule aliée. Tu retournes à la première case sauf si tu tires plus de 8 avec le dé (tu es cuit !)    
+
+__Tu peux toujours écrire tes propres règles (comme d’habitude).__
+
+©2020 Florencia Giovagnoli. All rights reserved.
+
+& Deutsch coming soon
