@@ -41,9 +41,7 @@ Para llegar a la meta (casillero 40) hay que sacar con los dados el número exac
 
 Podés escribir tus propias reglas (como siempre).    
     
-©2020 [Florencia Giovagnoli](http://florenciagiovagnoli.com/). All rights reserved.    
-    
-![Podés escribir tus propias reglas](https://github.com/CaroGiovagnoli/corona_game/blob/master/img/botton.jpg?raw=true)
+©2020 [Florencia Giovagnoli](http://florenciagiovagnoli.com/). All rights reserved.       
 
 ---
 #### English version
@@ -129,3 +127,5 @@ __Tu peux toujours écrire tes propres règles (comme d’habitude).__
 ©2020 Florencia Giovagnoli. All rights reserved.
 
 & Deutsch coming soon
+
+![Podés escribir tus propias reglas](https://github.com/CaroGiovagnoli/corona_game/blob/master/img/botton.jpg?raw=true)
