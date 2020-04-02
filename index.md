@@ -87,7 +87,8 @@ __As usual, you can add your own.__
 ©2020 Florencia Giovagnoli. All rights reserved.
 
 ---
-####Version française
+#### Version française
+
 ![El juego del coronavirus](https://github.com/CaroGiovagnoli/corona_game/blob/master/img/banner.jpg?raw=true)
 # Jeu du coronavirus
 > Conçu par Florencia Giovagnoli
